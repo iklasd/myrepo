@@ -7,5 +7,6 @@
 </head>
 <body>
 	<p>Testing with git</p>
+	<h1>hello git</h1>
 </body>
 </html>
